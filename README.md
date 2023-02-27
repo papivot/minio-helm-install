@@ -1,5 +1,6 @@
 # minio-helm-install
 
+```
 auth:
   rootPassword: "Passw0rd!"
 
@@ -14,3 +15,4 @@ ingress:
   hostname: minio.navneetv.com
   tls: true
   selfSigned: true
+```
