@@ -2,7 +2,7 @@
 
 ```
 auth:
-  rootPassword: "Passw0rd!"
+  rootPassword: "Password"
 
 defaultBuckets: "tanzubackup"
 
